@@ -1,4 +1,4 @@
-# 🌴 Luxe Escapes – Luxury Travel React Web App
+# 🌴 Luxe Escapes – Luxury Travel Web App
 
 A beautifully designed static React web application showcasing popular luxury travel destinations. Built for learning and frontend practice.
 
@@ -20,8 +20,8 @@ A beautifully designed static React web application showcasing popular luxury tr
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/luxury-travel-app.git
-   cd luxury-travel-app
+   git clone https://github.com/sparknet-innovations/travel-web-app.git
+   cd travel-web-app
    ```
 
 2. **Install dependencies**
